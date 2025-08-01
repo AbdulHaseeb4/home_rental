@@ -1,16 +1,72 @@
-# home_rental
+# \# Home Rental App (FYP)
 
-A new Flutter project.
+# 
 
-## Getting Started
+# This is a Final Year Project (FYP) built using \*\*Flutter\*\* and \*\*Firebase\*\*.  
 
-This project is a starting point for a Flutter application.
+# The app provides an online platform for renting and selling properties.
 
-A few resources to get you started if this is your first Flutter project:
+# 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# ---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 
+
+# \## Features
+
+# \- \*\*User Authentication\*\* (Sign up \& Login)
+
+# \- \*\*Property Listing\*\* for Rent or Sale
+
+# \- \*\*Advanced Search \& Filters\*\*
+
+# \- \*\*Real-time Data\*\* using Firebase Firestore Streams
+
+# \- \*\*Push Notifications\*\* via Firebase Cloud Messaging
+
+# \- \*\*AI Chatbot\*\* for property-related queries and recommendations
+
+# \- \*\*Dark Mode\*\* support
+
+# 
+
+# ---
+
+# 
+
+# \## Tech Stack
+
+# \- \*\*Frontend:\*\* Flutter (Dart)
+
+# \- \*\*Backend:\*\* Firebase (Firestore, Cloud Messaging)
+
+# \- \*\*Notifications:\*\* Firebase Cloud Messaging (FCM)
+
+# 
+
+# ---
+
+# 
+
+# \## Documentation
+
+# Full detailed documentation is included:  
+
+# \[Download Documentation](./Documentation\_final.pdf)
+
+# 
+
+# ---
+
+# 
+
+# \## How to Run
+
+# 1\. Clone this repo:
+
+# &nbsp;  ```bash
+
+# &nbsp;  git clone https://github.com/AbdulHaseeb4/home\_rental.git
+
+# 
+
